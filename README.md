@@ -10,7 +10,7 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [awesome-esp](https://github.com/agucova/awesome-esp) - Another existing Awesome list.
 
-- [CanAirIO](https://github.com/kike-canaries) - [CanAirIO project](http://canair.io) repositories about air quality sensors.
+- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science [project](https://canair.io) that using mobile and fixed stations to measure air quality with ESP32 and Phones
 
 - [CODOS](https://github.com/miguelangelcasanova/codos) - CODOS project repository about building low cost CO2 sensors for education centers.
 
@@ -31,3 +31,5 @@ Spanish Telegram Group where some of this projects developers are:
 - [@J-Rios](https://github.com/J-Rios)
 
 - [Xibhu](https://github.com/xibhu) - Carlos mr. Ciclos superiores: Electrotecnia y Automatismos. Desarrollador de Aplicaciones Multiplataformas. Automatismos y Robótica Industrial.
+
+- [@hpsaturn](https://github.com/hpsaturn) - Antonio Vanegas is a mobile applications specialist, open culture enthusiast, software freedom activist. Founder: [CanAir.IO](https://canair.io) Co-founder: [HackBo](http://hackbo.co) & [Lumera](http://lumera.co/ks)
