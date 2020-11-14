@@ -1,5 +1,6 @@
 # Awesome-ESP-projects
 Recopilatorio de proyectos para ESP32 / ESP8266 interesantes, relacionados con el grupo de Telegram de ESP32 / ESP8266 en español.
+Enlace al grupo de Telegram: https://t.me/esp32es
 
 ## Resumen de otro resositorio de awesome projects para ESP
 https://github.com/agucova/awesome-esp
