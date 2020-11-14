@@ -13,3 +13,6 @@ Spanish Telegram Group where some of this projects developers are:
 - [CanAirIO](https://github.com/kike-canaries) - [CanAirIO project](http://canair.io) repositories about air quality sensors.
 
 - [CODOS](https://github.com/miguelangelcasanova/codos) - CODOS project repository about building low cost CO2 sensors for education centers.
+
+
+## Personal repositories of some of the members of the group
