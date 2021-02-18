@@ -4,7 +4,7 @@
 Awesome list of projects for ESP32 & ESP8266 devices.
 
 Spanish Telegram Group where some of this projects developers are:  
-[https://t.me/esp32es](https://t.me/esp32es)
+[https://t.me/esp32es](https://t.me/esp32_es)
 
 ## Projects
 
