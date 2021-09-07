@@ -1,5 +1,5 @@
 
-# Awesome-ESP-projects
+# ESP32 8266 projects
 
 Awesome list of projects for ESP32 & ESP8266 devices.
 
