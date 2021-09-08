@@ -43,9 +43,9 @@ Spanish Telegram Group where some of this projects developers are:
 
 - z-scores
 
-* [The best performing algorithm so far is this one](https://stackoverflow.com/questions/22583391/peak-signal-detection-in-realtime-timeseries-data/22640362#22640362) - Robust peak detection algorithm (using z-scores)
-* [ximeg](https://gist.github.com/ximeg/587011a65d05f067a29ce9c22894d1d2) - Python implementation of smoothed z-score algorithm from http://stackoverflow.com/a/22640362/6029703
-* [MatteoBattilana](https://gist.github.com/MatteoBattilana/95795e68129cda8f10f91d96dc4ebe72)- Robust peak detection algorithm (using z-scores), modified to split up the initialization and the computational part.
+	* [The best performing algorithm so far is this one](https://stackoverflow.com/questions/22583391/peak-signal-detection-in-realtime-timeseries-data/22640362#22640362) - Robust peak detection algorithm (using z-scores)
+	* [ximeg](https://gist.github.com/ximeg/587011a65d05f067a29ce9c22894d1d2) - Python implementation of smoothed z-score algorithm from http://stackoverflow.com/a/22640362/6029703
+	* [MatteoBattilana](https://gist.github.com/MatteoBattilana/95795e68129cda8f10f91d96dc4ebe72)- Robust peak detection algorithm (using z-scores), modified to split up the initialization and the computational part.
 
 - [Persistent Topology for Peak Detection](https://www.sthu.org/blog/13-perstopology-peakdetection/index.html)
 
